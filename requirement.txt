@@ -1,0 +1,14 @@
+tensorflow
+tensorflow-gpu
+matplotlib
+opencv-python
+mediapipe
+numpy
+sklearn
+scikit-learn
+pyrealsense2
+h5py
+pandas
+torch
+xgboost
+keras_lr_finder
